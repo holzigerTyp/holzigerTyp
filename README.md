@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-- 🔭 I’m currently working on mainly private repos c:
+- 🔭 I’m currently working mainly on private repos c:
 - 🌱 I’m currently learning C#
 
 
